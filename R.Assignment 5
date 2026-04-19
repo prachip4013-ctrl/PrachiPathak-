@@ -1,0 +1,24 @@
+# PrachiPathak-
+Assignment 5
+#1.To calculate length of string
+
+s = input("Enter string: ")
+print(s[:2] + s[-2:])
+#OUTPUT
+Learning 
+
+#2. To make string from first and last two characters from given string 
+
+s = input("Enter string: ")
+print(s[:2] + s[-2:])
+#OUTPUT
+Compute 
+
+#3. To concatenate two strings 
+
+a = input("First: ")
+b = input("Second: ")
+print(a + b)
+#OUTPUT
+Opensource
+
